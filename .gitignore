@@ -1,0 +1,18 @@
+# Ignore these
+Previews/
+Original/
+
+# ... but always include these
+!src/**
+!dist/**
+
+# OS
+.db
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log
+
+# Zips
+*.zip
